@@ -1,6 +1,6 @@
 # meituanapp
 
-> A Vue.js project
+> 按照美团app 1:1 H5建设
 
 ## Build Setup
 
